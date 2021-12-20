@@ -1,0 +1,11 @@
+J:\222\ClassLibrarytest\bin\Debug\net5.0\ClassLibrarytest.deps.json
+J:\222\ClassLibrarytest\bin\Debug\net5.0\ClassLibrarytest.dll
+J:\222\ClassLibrarytest\bin\Debug\net5.0\ref\ClassLibrarytest.dll
+J:\222\ClassLibrarytest\bin\Debug\net5.0\ClassLibrarytest.pdb
+J:\222\ClassLibrarytest\obj\Debug\net5.0\ClassLibrarytest.GeneratedMSBuildEditorConfig.editorconfig
+J:\222\ClassLibrarytest\obj\Debug\net5.0\ClassLibrarytest.AssemblyInfoInputs.cache
+J:\222\ClassLibrarytest\obj\Debug\net5.0\ClassLibrarytest.AssemblyInfo.cs
+J:\222\ClassLibrarytest\obj\Debug\net5.0\ClassLibrarytest.csproj.CoreCompileInputs.cache
+J:\222\ClassLibrarytest\obj\Debug\net5.0\ClassLibrarytest.dll
+J:\222\ClassLibrarytest\obj\Debug\net5.0\ref\ClassLibrarytest.dll
+J:\222\ClassLibrarytest\obj\Debug\net5.0\ClassLibrarytest.pdb
