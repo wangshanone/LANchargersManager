@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrarytest\ClassLibrarytest.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="FastSocket.Server">
+      <HintPath>..\socketdll\FastSocket.Server.dll</HintPath>
+    </Reference>
+    <Reference Include="FastSocket.SocketBase">
+      <HintPath>..\socketdll\FastSocket.SocketBase.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

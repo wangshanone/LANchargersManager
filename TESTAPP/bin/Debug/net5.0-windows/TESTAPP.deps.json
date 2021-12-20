@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TESTAPP/1.0.0": {
+        "dependencies": {
+          "ClassLibrarytest": "1.0.0",
+          "FastSocket.Server": "1.0.0.6",
+          "FastSocket.SocketBase": "1.0.0.6"
+        },
+        "runtime": {
+          "TESTAPP.dll": {}
+        }
+      },
+      "ClassLibrarytest/1.0.0": {
+        "runtime": {
+          "ClassLibrarytest.dll": {}
+        }
+      },
+      "FastSocket.Server/1.0.0.6": {
+        "runtime": {
+          "FastSocket.Server.dll": {
+            "assemblyVersion": "1.0.0.6",
+            "fileVersion": "1.0.0.6"
+          }
+        }
+      },
+      "FastSocket.SocketBase/1.0.0.6": {
+        "runtime": {
+          "FastSocket.SocketBase.dll": {
+            "assemblyVersion": "1.0.0.6",
+            "fileVersion": "1.0.0.6"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TESTAPP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrarytest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FastSocket.Server/1.0.0.6": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FastSocket.SocketBase/1.0.0.6": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
